@@ -1,16 +1,9 @@
 ![](https://i.imgur.com/J8aTIwt.png)
 
-# Dialogflow for Web *v2*
+# Cogntiive Interaction (mocked)
 
-> [Dialogflow](https://dialogflow.com) lets you build conversational interfaces on top of your products and services by providing a powerful natural language understanding (NLU) engine to process and understand natural language input
+> 
 
-This is a unofficial Web Integration for Dialogflow V2, which supports everything the Platform has to offer
-
-The development of this project is done by @mishushakov in his free-time. If you want to support, please click the "Sponsor" button:
-
-![](https://i.imgur.com/adRvGaY.png)
-
-If you have any questions, feel free to [contact](https://ushakov.co/#contact)
 
 ## Features
 
@@ -40,13 +33,12 @@ If you have any questions, feel free to [contact](https://ushakov.co/#contact)
 - NodeJS
 - NPM or Yarn
 - Basic knowledge in JS
-- Google Account and Dialogflow V2 Agent (if you look for V1, please use my [old repo](https://github.com/mishushakov/dialogflow-web))
+- 
 
 ## Read the license
 
-Before making any further steps please **read** the [license](LICENSE). You should not use this work, if you are not willing to accept the terms and conditions under which it was provided to you. Any activities against license conditions may be followed by law
 
-## Set up Dialogflow Gateway (backend)
+## Set up Gateway (backend)
 
 Dialogflow Gateway enables third-party integrations like this one to securely access the Dialogflow V2 API
 
@@ -55,9 +47,6 @@ Dialogflow Gateway enables third-party integrations like this one to securely ac
 
 ## Clone the repository
 
-You can use git or download it directly from github
-
-![](https://imgur.com/bpHE9K6.png)
 
 ## Get the dependencies
 

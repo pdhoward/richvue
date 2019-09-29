@@ -1,9 +1,8 @@
 {
   "name": "richvue",
   "description": "PWA RICH UI",
-  "version": "2.6.1",
-  "author": "Strategic Machines",
-  "private": true,
+  "version": "0.5.0",
+  "author": "Strategic Machines", 
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
